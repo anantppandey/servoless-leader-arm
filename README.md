@@ -2,6 +2,10 @@
 
 # servoless-leader-arm
 
+<a href="https://youtu.be/yRe2bAQGQWk">
+  <img src="assets/servoless_leader.jpeg" width="600px">
+</a>
+
 ## A. Introduction
 
 Instead of using Feetech servo motors on the Leader Arm, we’ve designed a 3D‐printable casing that houses an AS5600 magnetic‐encoder to act as a “dummy servo.” By mounting the AS5600 in a housing that has the same mounting dimensions as the Feetech motor, each joint on the Leader Arm uses a miniature Hall-effect sensor to measure absolute angular position with 12-bit precision. The advantages include:
