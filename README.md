@@ -3,7 +3,7 @@
 # Servoless-leader-arm
 
 <a href="https://youtu.be/yRe2bAQGQWk">
-  <img src="assets/leader_thumbnail.jpg" width="500px">
+  <img src="assets/leader_thumbnail.jpg" width="800px">
 </a>
 
 ## A. Introduction
@@ -21,6 +21,8 @@ Each Leader Arm joint (6 total joints) will get its own AS5600 â€œservo casing,â
   <img src="assets/giraffe_leader.png" width="35%" />
   <img src="assets/servoless_leader.jpeg" width="45%" />
 </p>
+
+---
 
 ## B. Prechecks
 
@@ -59,7 +61,9 @@ When choosing a printer, keep the following recommended specifications in mind. 
   5. Adjust the printer settings to match the recommended specifications listed above.
   6. Verify the file format, select files from the hardware folder, and begin printing.
 
-### B. Printing and Parts
+---
+
+### C. Printing and Parts
 
 The servo-less leader features two designs for the servo casing [servo 1](CAD/STL/as5600_servo_1.stl) and [servo 2](CAD/STL/as5600_servo_2.stl)
 
@@ -105,11 +109,15 @@ Servo 1 is used in joints 1 through 4 and servo 2 for joints 5 and 6
   <img src="assets/leader_all_parts.jpeg" width="100%" />
 </p>
 
-### C. Assembly and Integration
+---
 
-For detailed Assembly and Integration steps, refer to the [OpenBot Giraffe Leader Arm Documentation](https://docs.openbot.co.in/docs/Giraffe/Assembly/Servo-Less%20Leader/leader_overview).
+### D. Assembly and Integration
 
-### D. Calibration Check (Optional)
+For detailed Assembly and Integration steps, refer to the [**OpenBot Giraffe Leader Arm Documentation**](https://docs.openbot.co.in/docs/Giraffe/Assembly/Servo-Less%20Leader/leader_overview).
+
+---
+
+### E. Calibration Check (Optional)
 
 You can perform a basic calibration check to confirm everything is working properly:
 
