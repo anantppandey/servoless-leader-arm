@@ -1,9 +1,9 @@
 <!-- @format -->
 
-# servoless-leader-arm
+# Servoless-leader-arm
 
 <a href="https://youtu.be/yRe2bAQGQWk">
-  <img src="assets/leader_thumbnail.jpg" width="550px">
+  <img src="assets/leader_thumbnail.jpg" width="500px">
 </a>
 
 ## A. Introduction
@@ -66,21 +66,21 @@ The servo-less leader features two designs for the servo casing [servo 1](CAD/ST
 <table>
   <tr>
     <td align="center">
-      <img src="assets/as5600_servo_1.png" width="150px"><br/>
+      <img src="assets/as5600_servo_1.png" width="240px"><br/>
       <b>Servo 1</b>
     </td>
     <td align="center">
-      <img src="assets/as5600_servo_2.png" width="150px"><br/>
+      <img src="assets/as5600_servo_2.png" width="240px"><br/>
       <b>Servo 2</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/servo_1_cut_3.PNG" width="235px"><br/>
+      <img src="assets/servo_1_cut_3.PNG" width="335px"><br/>
       <b>Servo 1 Cross Section</b>
     </td>
     <td align="center">
-      <img src="assets/servo_2_cut_2.PNG" width="235px"><br/>
+      <img src="assets/servo_2_cut_2.PNG" width="335px"><br/>
       <b>Servo 2 Cross Section</b>
     </td>
   </tr>
@@ -135,11 +135,11 @@ python3 AS5600_reader.py
 <table>
   <tr>
     <td align="center">
-      <img src="assets/follower_zero.jpeg" width="300px"><br/>
+      <img src="assets/follower_zero.jpeg" width="400px"><br/>
       <b>Zero Position</b>
     </td>
     <td align="center">
-      <img src="assets/follower_rotated.jpeg" width="300px"><br/>
+      <img src="assets/follower_rotated.jpeg" width="400px"><br/>
       <b>Rotated Position</b>
     </td>
   </tr>
