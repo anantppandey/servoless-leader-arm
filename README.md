@@ -3,7 +3,7 @@
 # servoless-leader-arm
 
 <a href="https://youtu.be/yRe2bAQGQWk">
-  <img src="https://img.youtube.com/vi/yRe2bAQGQWk/0.jpg" width="600px">
+  <img src="assets/leader_thumbnail.jpg" width="550px">
 </a>
 
 ## A. Introduction
