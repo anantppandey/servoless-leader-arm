@@ -18,8 +18,8 @@ Instead of using Feetech servo motors on the Leader Arm, we’ve designed a 3D�
 Each Leader Arm joint (6 total joints) will get its own AS5600 “servo casing,” wired back to a central I²C multiplexer + micro-controller.
 
 <p align="center">
-  <img src="assets/giraffe_leader.png" width="35%" />
-  <img src="assets/servoless_leader.jpeg" width="45%" />
+  <img src="assets/giraffe_leader.png" width="42%" />
+  <img src="assets/servoless_leader.jpeg" width="53%" />
 </p>
 
 ---
@@ -154,7 +154,7 @@ python3 AS5600_reader.py
 </table>
 
 - Once the arm is moved to the required positions, press Enter as instructed
-- After completing both positions, the follower calibration is saved to:  
+- After completing both positions, the leaderr calibration is saved to:  
   `Calibration_Data.txt`
 
 #### **3. Real-Time Angle Output**
